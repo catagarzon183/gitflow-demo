@@ -1,2 +1,3 @@
 "Version inicial" 
 "Agrego funcion de login" 
+"Preparando version 1.0" 
